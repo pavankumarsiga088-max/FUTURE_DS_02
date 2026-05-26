@@ -1,4 +1,4 @@
-# FUTURE_DS_02
+# Customer Churn Analysis
 Customer Retention &amp; Churn Analysis Dashboard using Excel | Future Interns Internship Project
 # Customer Retention & Churn Analysis Dashboard
 
